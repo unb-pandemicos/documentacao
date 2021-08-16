@@ -24,7 +24,7 @@ $ docker build . -t documentacao
 4. Executar o run da imagem na porta 8000
 
 ```
-docker run -p 8000:8000 documentacao:latest
+$ docker run -p 8000:8000 documentacao:latest
 ```
 
 Pronto! O desenvolvedor já pode acessar a URL `http://0.0.0.0:8000/`, onde está rodando um live-server da documentação.
