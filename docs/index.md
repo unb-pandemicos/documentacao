@@ -65,7 +65,7 @@ Esse repositório contém toda a documentação disponível para os projetos que
             Yuri Alves Bacarias
         </td>
         <td style="padding-top: 50px;">
-            18/0103792
+            18/0078640
         </td>
         <td style="padding-top: 50px;">
             <a href="https://github.com/yuriAlves5" target="_blank">@yuriAlves5</a>
