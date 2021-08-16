@@ -1,1 +1,22 @@
-site_name: My Docs
+site_name: Documentação
+
+nav: 
+  - Início: index.md
+  - Cronograma: cronograma.md
+
+theme:
+  name: material
+  language: pt
+  font:
+    text: Ubuntu
+    code: Ubuntu Mono
+
+extra_css: [_extra/extra.css]
+
+repo_name: unb-pandemicos/documentacao
+repo_url: https://github.com/unb-pandemicos/documentacao
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/unb-pandemicos
